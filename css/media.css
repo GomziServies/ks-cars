@@ -1,0 +1,52 @@
+@media (max-width: 576px) {
+
+    .block-img img {
+        width: 54px !important;
+        margin-left: 0px !important;
+    }
+
+    .Included h2 {
+        font-size: 20px !important;
+    }
+
+    .myTVS h2 {
+        font-size: 20px !important;
+    }
+
+    .dd {
+        display: block !important;
+    }
+
+    .owl-carousel:hover .owl-nav .owl-prev {
+        left: -21px;
+    }
+
+    .dd img {
+        width: 54px !important;
+        margin-left: 0px !important;
+        margin-bottom: 20px;
+    }
+    .dd h5{
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .dd-1 {
+        display: none !important;
+    }
+
+    .owl-testimonial-2 {
+        display: block !important;
+    }
+
+    .owl-testimonial-1 {
+        display: none !important;
+    }
+    .navbar-brand img{
+        margin-left: 25px;
+        width: 35% !important;
+    }
+
+    .margin-top{
+        margin-top: 30px;
+    }
+}
