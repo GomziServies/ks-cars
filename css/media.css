@@ -17,6 +17,14 @@
         display: block !important;
     }
 
+    .bbb{
+        display: none !important;
+    }
+
+    .no{
+        margin-left: 227px;
+    }
+
     .owl-carousel:hover .owl-nav .owl-prev {
         left: -21px;
     }
@@ -42,8 +50,8 @@
         display: none !important;
     }
     .navbar-brand img{
-        margin-left: 25px;
-        width: 35% !important;
+        margin-left: 287px;
+        width: 15% !important;
     }
 
     .margin-top{
